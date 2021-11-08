@@ -36,7 +36,7 @@
     background-color: #17212b;
 }
 
-#message {
+.message {
     display: flex;
     border-radius: 8px;
     background-color: #2b5278;
